@@ -1,1 +1,1 @@
-# sre-the-journey
+# The journey to become a SRE / DevOps Engineer
